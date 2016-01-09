@@ -1,2 +1,2 @@
-GGit is a version control system.
-GGit is free software.
+Git is a distributed version control system.
+Git is free software.
